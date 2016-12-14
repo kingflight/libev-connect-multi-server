@@ -1,0 +1,3 @@
+
+功能：基于libev库，在一个loop中实现2个connect。其中一个connect结束不影响另外一个
+
